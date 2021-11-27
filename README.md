@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuslanZahriadskyi&card_height=100&theme=aura&show_icons=true&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuslanZahriadskyi&card_height=100&theme=aura&show_icons=true&line_height=20&count_private=true" />
 </a>
 </p>
 
