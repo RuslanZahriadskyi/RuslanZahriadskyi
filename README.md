@@ -31,9 +31,11 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuslanZahriadskyi&card_height=100&theme=aura&show_icons=true&line_height=20" />
 </a>
-  
+</p>
+
+<p align="center">
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanZahriadskyi&theme=aura&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanZahriadskyi&theme=aura&layout=compact&card_width=445" />
 </a>
 </p>
 
