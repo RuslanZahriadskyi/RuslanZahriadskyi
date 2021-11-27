@@ -2,10 +2,6 @@
   <a href="#" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=%2374EE4B&size=45&center=true&vCenter=true&multiline=true&width=720&height=135&lines=Hello+there%2C+I%60m+Ruslan+Zahriadskyi;A+Frontend+Developer" alt="c"/> </a>
 </p>
 
-<p align="center">  
-  <a href="#" target="_blank"> <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="c"/> </a>
-</p>
-
 ## <h3 align="center"> Languages and Tools:</h3> 
 
 <p align="center">
